@@ -31,6 +31,7 @@ namespace GymRoom.Models
         [Display( Name = "Gói tập")]
         public string? MaGoiTap{get; set;}
         [ForeignKey("MaGoiTap")]
+        [Display( Name = "Gói tập")]
         public GoiTap? GoiTap {get; set;}
 
         [Required]

@@ -1,4 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using GymRoom.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<GymRoomContext>(options =>
+
+    options.UseSqlite(builder.Configuration.GetConnectionString("GymRoomContext")));
+
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

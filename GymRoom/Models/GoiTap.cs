@@ -5,13 +5,13 @@ namespace GymRoom.Models
     public class GoiTap
     {
         [Key]
-
-        [Display( Name = "Gói ID")]
-        public string? GoiID{get; set;}
-
         [Display( Name = "Mã Gói Tập")]
-        public string? MaGiaGoi{get; set;}
-        [ForeignKey("MaGiaGoi")]
-        public GiaGoi? GiaGoi{get; set;}
+        public string? MaGoiTap{get; set;}
+
+        [Display( Name = "Tên Gói")]
+        public string? TenGoi{get; set;}
+        
+        [Display( Name = "Giá Gói")]
+        public string? GiaGoi { get; set; }      
     }
 }

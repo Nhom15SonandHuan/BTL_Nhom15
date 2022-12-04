@@ -8,37 +8,177 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GymRoom
 build_property.RootNamespace = GymRoom
-build_property.ProjectDir = d:\NetCore\New folder\BTL_Nhom15\GymRoom\
+build_property.ProjectDir = D:\NetCore\New folder\BTL_Nhom15\GymRoom\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\NetCore\New folder\BTL_Nhom15\GymRoom
+build_property.MSBuildProjectDirectory = D:\NetCore\New folder\BTL_Nhom15\GymRoom
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Home/Index.cshtml]
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ChucVu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ChucVu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ChucVu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ChucVu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ChucVu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1Y1Z1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/GoiTap/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29pVGFwXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/GoiTap/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29pVGFwXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/GoiTap/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29pVGFwXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/GoiTap/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29pVGFwXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/GoiTap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29pVGFwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/HoiVien/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9pVmllblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/HoiVien/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9pVmllblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/HoiVien/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9pVmllblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/HoiVien/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9pVmllblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/HoiVien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9pVmllblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Home/Privacy.cshtml]
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Shared/Error.cshtml]
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/NhanVien/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/NhanVien/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/NhanVien/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/NhanVien/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/NhanVien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/_ViewImports.cshtml]
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThanhToan/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThanhToan/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThanhToan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThanhToan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThanhToan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThietBi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhpZXRCaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThietBi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhpZXRCaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThietBi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhpZXRCaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThietBi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhpZXRCaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/ThietBi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhpZXRCaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/TinhTrang/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/TinhTrang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/TinhTrang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/TinhTrang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/TinhTrang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRyYW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/_ViewStart.cshtml]
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Shared/_Layout.cshtml]
+[D:/NetCore/New folder/BTL_Nhom15/GymRoom/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sipycdebvq
