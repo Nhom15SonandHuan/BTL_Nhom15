@@ -13,18 +13,18 @@ namespace GymRoom.Data
         {
         }
 
-        public DbSet<GymRoom.Models.HoiVien> HoiVien { get; set; }
+        public DbSet<GymRoom.Models.HoiVien> HoiVien { get; set; } = default!;
 
-        public DbSet<GymRoom.Models.NhanVien> NhanVien { get; set; }
+        public DbSet<GymRoom.Models.NhanVien> NhanVien { get; set; } = default!;
 
-        public DbSet<GymRoom.Models.ThietBi> ThietBi { get; set; }
+        public DbSet<GymRoom.Models.ThietBi> ThietBi { get; set; } = default!;
 
-        public DbSet<GymRoom.Models.ThanhToan> ThanhToan { get; set; }
+        public DbSet<GymRoom.Models.ThanhToan> ThanhToan { get; set; } = default!;
 
-        public DbSet<GymRoom.Models.ChucVu> ChucVu { get; set; }
+        public DbSet<GymRoom.Models.ChucVu> ChucVu { get; set; } = default!;
 
-        public DbSet<GymRoom.Models.GoiTap> GoiTap { get; set; }
+        public DbSet<GymRoom.Models.GoiTap> GoiTap { get; set; } = default!;
 
-        public DbSet<GymRoom.Models.TinhTrang> TinhTrang { get; set; }
+        public DbSet<GymRoom.Models.TinhTrang> TinhTrang { get; set; } = default!;
     }
  }

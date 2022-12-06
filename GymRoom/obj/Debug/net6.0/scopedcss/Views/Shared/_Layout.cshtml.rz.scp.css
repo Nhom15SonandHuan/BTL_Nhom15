@@ -9,18 +9,21 @@ a.navbar-brand[b-sipycdebvq] {
 
 a[b-sipycdebvq] {
   color: #0077cc;
+  margin: 10px;
 }
 
 .btn-primary[b-sipycdebvq] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+  display: inline-block;
 }
 
 .nav-pills .nav-link.active[b-sipycdebvq], .nav-pills .show > .nav-link[b-sipycdebvq] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+  text-align: center;
 }
 
 .border-top[b-sipycdebvq] {
